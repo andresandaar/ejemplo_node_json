@@ -1,0 +1,11 @@
+{
+	"nombre": "Jane Doe",
+	"profesion": "Programador",
+	"edad": 27,
+	"lenguajesDeProgramacion": ["HTML", "CSS", "Python", "JavaScript"],
+	"disponibilidadParaViajar": true,
+	"rangoProfesional": {
+		"aniosDeExperiencia": 9,
+		"nivelDeGestion": "Senior"
+	}
+}
